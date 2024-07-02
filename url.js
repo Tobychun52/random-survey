@@ -8,7 +8,15 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232'
+/* 餐飲品牌APP */	
+'https://www.surveycake.com/s/Yaax2',
+'https://www.surveycake.com/s/7LLxN',
+
+/* 電商平台 */
+'https://www.surveycake.com/s/r33W0',
+'https://www.surveycake.com/s/Rgg4y',
+/* 電信公司 */
+'https://www.surveycake.com/s/Gaa0P',
+'https://www.surveycake.com/s/VaaQR'
+
 ];
