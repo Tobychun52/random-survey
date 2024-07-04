@@ -9,14 +9,15 @@
 
 const urls = [
 /* 餐飲品牌APP */	
-'https://www.surveycake.com/s/Yaax2',
+'https://www.surveycake.com/s/e0gdz',
 'https://www.surveycake.com/s/7LLxN',
 
 /* 電商平台 */
-'https://www.surveycake.com/s/r33W0',
+'https://www.surveycake.com/s/gKg1L',
 'https://www.surveycake.com/s/Rgg4y',
+
 /* 電信公司 */
-'https://www.surveycake.com/s/Gaa0P',
+'https://www.surveycake.com/s/qLgBa',
 'https://www.surveycake.com/s/VaaQR'
 
 ];
